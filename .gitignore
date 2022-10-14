@@ -1,5 +1,5 @@
 
 *.py
 *.net
-!asd
+!asd.py
 
